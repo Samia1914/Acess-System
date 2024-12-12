@@ -1,0 +1,14 @@
+alefragnani.bookmarks
+bradlc.vscode-tailwindcss
+catppuccin.catppuccin-vsc
+catppuccin.catppuccin-vsc-icons
+dbaeumer.vscode-eslint
+eamodio.gitlens
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+lkytal.coffeelinter
+ms-ceintl.vscode-language-pack-pt-br
+prplx.coffeescript-formatter
+rangav.vscode-thunder-client
+streetsidesoftware.code-spell-checker
+streetsidesoftware.code-spell-checker-portuguese-brazilian
